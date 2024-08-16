@@ -15,4 +15,4 @@ lista=np.random.rand(4)#manda 4 numeros aleatorios
 lista=np.random.randn(4,5 )#manda 4 numeros aleatorios
 lista=np.random.randint(1,15)#manda un numero aleatorio entre el 1 y el 15
 lista=np.random.randint(1,100,(10,10))
-print(list)
+print(lista)
